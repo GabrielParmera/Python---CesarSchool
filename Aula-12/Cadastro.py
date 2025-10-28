@@ -14,7 +14,7 @@ for i in range(n):
     idades.append(idade)
 
 for i in range(len(nomes)):
-    arquivo.write("Nome: " + nomes[i] + " " + sobrenomes[i] + "Idade: " + str(idades[i]))
+    arquivo.write("Nome: " + nomes[i] + " " + sobrenomes[i] + "Idade: " + str(idades[i]) + "\n")
 
 arquivo.close()
 
