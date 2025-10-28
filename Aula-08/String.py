@@ -24,7 +24,7 @@ print(caso.count('Hoje'))
 eita = 'apenas fazendo um teste'
 print(eita.split()) #Cria lista de string
 print(eita.strip()) #Remove espaços em branco
-print(eita.lstrip()) #Remove espaço em brando da esquerda
+print(eita.lstrip()) #Remove espaço em branco da esquerda
 print(eita.rstrip()) #Remove espaço em branco de direita
 
 Time = ['Rafael', 'Carlos', 'Lucas', 'Luís']
